@@ -1,0 +1,125 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Welcome to Ran's Blog</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="#" class="image avatar"><img src="images/psb.JPG" alt="" /></a>
+				<h1><strong>I am Ran Cheng</strong>, an AI zealot<br />
+				also a creative robot boffin.<br />
+				</h1>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>Research List</h2>
+						</header>
+						<p>Currently I'm working in Tongji iLab, China, which indicates innovation laboratory of TJU. most of my researches are about Robotic, Computer Vision, Data Mining and Machine Learning.</br> Here're my research list.</p>
+					</section>
+				<!-- Two -->
+					<section id="two">
+						<div class="row uniform 50%">
+							<div class="8u 12u$(small)"	>
+								<h4><a href="#">Neuromorphic Engineering and Robotics</a></h4>	
+								<p>We are starting a new research effort which aims at developing the next generation  of highly-capable robots, based on ...</p>
+							</div>
+							<div
+							class="4u$ 12u$(small)"	
+							>
+								<span class="image fit"><img src="images/thumbs/robot.jpg" alt="" /></span>
+							</div>
+						</div>
+						<hr/>
+						<div class="row uniform 50%">
+							<div class="8u 12u$(small)"	>
+								<h4><a href="#">A formal Bayesian theory of surprise based Big data detection</a></h4>	
+								<p>The surprise model is based on the First-principles analysis, and optimized the result from Saliency model and Novelty model ...</p>
+							</div>
+							<div
+							class="4u$ 12u$(small)"	
+							>
+								<span class="image fit"><img src="images/thumbs/surprise.jpg" alt="" /></span>
+							</div>
+						</div>
+						<hr/>
+						<div class="row uniform 50%">
+							<div class="8u 12u$(small)"	>
+								<h4><a href="#">Vision based robot self locating</a></h4>	
+								<p>The vision based robot self locating is well defined by our colleagues, yet we invented some new approach to implement ...</p>
+							</div>
+							<div
+							class="4u$ 12u$(small)"	
+							>
+								<span class="image fit"><img src="images/thumbs/indoor_location_thumb.jpg" alt="" /></span>
+							</div>
+						</div>
+						<hr/>
+						<div class="row uniform 50%">
+							<div class="8u 12u$(small)"	>
+								<h4><a href="#">Pedigree styled social network</a></h4>	
+								<p>I've created one pedigree styled social networking platform by combine the social network with family trees.</p>
+							</div>
+							<div
+							class="4u$ 12u$(small)"	
+							>
+								<span class="image fit"><img src="images/thumbs/pedigree_socialnetwork.png" alt="" /></span>
+							</div>
+						</div>
+					</section>			
+				
+				<section>
+				<div class="row uniform 50%">
+							<div class="4u 12u$(small)">
+								
+							</div>
+							<div
+							class="4u$ 12u$(small)"	
+							>
+								<a href="#" class="button fit">Load More</a>
+							</div>
+						</div>
+				
+				</section>
+				
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/Rain_Cheng" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://github.com/rancheng" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://www.facebook.com/rain.cheng.395" class="icon fa-facebook"><span class="label">Dribbble</span></a></li>
+					<li><a href="chengran327@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Ran Cheng</li><li>Design: <a href="#">Rain</a></li>
+				</ul>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

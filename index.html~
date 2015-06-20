@@ -53,12 +53,12 @@
 								<p>The surprise model is based on the First-principles analysis, and optimized the result from Saliency model and Novelty model, we creatively use the surprise model in the big data information detection and find something surprise for users to determine further recommendation.</p>
 							</article>
 							<article class="6u 12u$(xsmall) work-item">
-								<a href="images/fulls/pedigree_socialnetwork_full.png" class="image fit thumb"><img src="images/thumbs/pedigree_socialnetwork.png" alt="" /></a>
+								<a href="images/fulls/indoor_location.jpg" class="image fit thumb"><img src="images/thumbs/indoor_location_thumb.jpg" alt="" /></a>
 								<h3>Vision based robot self locating</h3>
 								<p>The vision based robot self locating is well defined by our colleagues, yet we invented some new approach to implement the general indoor locating process by extrapolate the vanishing point and gist of the room.</p>
 							</article>
 							<article class="6u$ 12u$(xsmall) work-item">
-								<a href="images/fulls/indoor_location.jpg" class="image fit thumb"><img src="images/thumbs/indoor_location_thumb.jpg" alt="" /></a>
+								<a href="images/fulls/pedigree_socialnetwork_full.png" class="image fit thumb"><img src="images/thumbs/pedigree_socialnetwork.png" alt="" /></a>
 								<h3>Pedigree styled social network</h3>
 								<p>I've created one pedigree styled social networking platform by combine the social network with family trees.</p>
 							</article>
@@ -431,10 +431,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-					<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+					<li><a href="https://twitter.com/rain_cheng" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://github.com/rancheng" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://www.facebook.com/rain.cheng.395" class="icon fa-facebook"><span class="label">Dribbble</span></a></li>
+					<li><a href="chengran327@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
 					<li>&copy; Ran Cheng</li><li>Design: <a href="#">Rain</a></li>
